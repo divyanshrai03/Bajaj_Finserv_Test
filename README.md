@@ -1,4 +1,4 @@
-# 🚀 Bajaj Finserv Health - Coding Challenge Solution (Java)
+# 🚀 Bajaj Finserv Health (Java)
 
 This repository contains an automated Spring Boot application built as part of the **Bajaj Finserv Health Backend Hiring Challenge**.  
 The application interacts directly with the official hiring API — generating a webhook, determining the assigned question, computing the corresponding SQL solution, and submitting it securely using a JWT token.
